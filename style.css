@@ -34,6 +34,11 @@ main a {
 
 .dog-list-container {
   /* your code */
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  
 }
 
 .fluid-text {
